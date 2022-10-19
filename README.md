@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Crypto Beers**
 
-- 🌱 I’m currently learning **Smartpy, Solidity, Rust**
+- 🌱 I’m currently learning **Solidity, Vyper, JavaScript**
 
 - 👯 I’m looking to collaborate on **Solidity, React, Python**
 
