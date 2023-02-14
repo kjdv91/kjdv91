@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Hello, I am a Full Stack developer passionate about web3 technology and an eternal learner,</h3>
+<h3 align="center">Hello, I am a Full Stack developer passionate about web3 technology and microsoft technology an eternal learner,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjdv91&label=Profile%20views&color=0e75b6&style=flat" alt="kjdv91" /> </p>
 
