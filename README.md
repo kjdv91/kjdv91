@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cryptomanoschool**
 
-- 🌱 I’m currently learning **Solidity, Rust, Clarity, TypeScript JavaScript**
+- 🌱 I’m currently learning **Solidity, Rust, C#, TypeScript JavaScript**
 
 - 👯 I’m looking to collaborate on **Solidity, React, Rust, Clarity**
 
