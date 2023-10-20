@@ -24,11 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.blockchain.com/" target="_blank" rel="noreferrer">
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)" alt="blockchain" width="40" height="40"/>
-</a>
-</p>
+<img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjdv91&show_icons=true&locale=en&layout=compact" alt="kjdv91" /></p>
