@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjdv91&show_icons=true&locale=en&layout=compact" alt="kjdv91" /></p>
