@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Cryptomanoschool**
 
-- 🌱 I’m currently learning **Solidity, Rust, C#, TypeScript JavaScript**
+- 🌱 I’m currently learning **Python, Solidity, Rust, C#, TypeScript JavaScript**
 
-- 👯 I’m looking to collaborate on **Rust, C#, Sql Server, Angular**
+- 👯 I’m looking to collaborate on **Python, C#, Sql Server, Angular, Solidity**
 
 - 🤝 I’m looking for help with **Web3**
 
